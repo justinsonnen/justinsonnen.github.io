@@ -1,5 +1,5 @@
 
-(https://github.com/justinsonnen/justinsonnen.github.io/blob/master/rick.jpg)
+
 
 *THIS INFORMATION IS ~~IMPORTANT~~*
 
