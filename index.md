@@ -1,6 +1,6 @@
 
 
-
+![](https://justinsonnen.github.io/images/rick.jpg)
 *THIS INFORMATION IS ~~IMPORTANT~~*
 
 You can use the [editor on GitHub](https://github.com/justinsonnen/justinsonnen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
