@@ -6,11 +6,15 @@ body {
 }
 
 h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Sacramento', cursive;
 }
 
 h2 {
-  font-family: 'Sacramento', cursive;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
 }
 
 .top_container {
