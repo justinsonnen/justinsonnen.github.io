@@ -3,6 +3,7 @@ body {
     background-color: #ffffdd;
     text-align: center;
     font-family: 'Roboto', sans-serif;
+
 }
 
 h1 {
@@ -17,10 +18,13 @@ h3 {
   font-family: 'Roboto', sans-serif;
 }
 
+
 .top_container {
+  bottom: 200px;
+  top: 200px;
   background-color: #cbeaed;
-  position: relative;
-  padding-top: 100px;
+  padding-top: 300px;
+  height: 900px;
 }
 
 .top_cloud {
@@ -33,6 +37,12 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.section_img {
+  align: center;
+  height: 140px;
+  width: 140px;
 }
 
 .middle_container {
