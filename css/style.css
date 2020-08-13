@@ -2,9 +2,16 @@ body {
     margin: 0px;
     background-color: #ffffdd;
     text-align: center;
-    font-family: verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: 'Sacramento', cursive;
+}
 
 .top_container {
   background-color: #cbeaed;
