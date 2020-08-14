@@ -1,30 +1,29 @@
 body {
-    margin: 0px;
-    background-color: #ffffdd;
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-
+  margin: 0;
+  background-color: #ffffdd;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1 {
+  font-size: 5.62rem;
   font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
 }
 
 h3 {
   font-family: 'Roboto', sans-serif;
 }
 
-
 .top_container {
-  bottom: 200px;
-  top: 200px;
   background-color: #cbeaed;
-  padding-top: 300px;
-  height: 900px;
+  position: relative;
+  padding-top: 100px;
 }
 
 .top_cloud {
@@ -40,13 +39,10 @@ h3 {
 }
 
 .section_img {
-  align: center;
   height: 140px;
   width: 140px;
 }
 
-.middle_container {
-}
+.middle_container {}
 
-.bottom_container {
-}
+.bottom_container {}
